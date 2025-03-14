@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include <mach/ndr.h>
+#include <stdio.h>
 
 extern void dylibify_entry(void);
 
