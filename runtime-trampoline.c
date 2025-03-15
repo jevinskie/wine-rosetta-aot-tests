@@ -1,7 +1,5 @@
 #include "runtime-trampoline.h"
 
-#include <mach-o/loader.h>
-
 // Function prototype for special_func
 extern void dylibify_entry(void);
 
